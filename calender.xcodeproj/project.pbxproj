@@ -14,6 +14,7 @@
 		FBBB0BFC1B1B870F00FA2477 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBB0BFB1B1B870F00FA2477 /* Images.xcassets */; };
 		FBBB0BFF1B1B870F00FA2477 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FBBB0BFD1B1B870F00FA2477 /* LaunchScreen.xib */; };
 		FBBB0C0B1B1B870F00FA2477 /* calenderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBB0C0A1B1B870F00FA2477 /* calenderTests.swift */; };
+		FBBB0C151B1B941F00FA2477 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBB0C141B1B941F00FA2477 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		FBBB0C041B1B870F00FA2477 /* calenderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = calenderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBBB0C091B1B870F00FA2477 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBBB0C0A1B1B870F00FA2477 /* calenderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calenderTests.swift; sourceTree = "<group>"; };
+		FBBB0C141B1B941F00FA2477 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				FBBB0BF11B1B870F00FA2477 /* AppDelegate.swift */,
 				FBBB0BF61B1B870F00FA2477 /* ViewController.swift */,
+				FBBB0C141B1B941F00FA2477 /* MainViewController.swift */,
 				FBBB0BF81B1B870F00FA2477 /* Main.storyboard */,
 				FBBB0BFB1B1B870F00FA2477 /* Images.xcassets */,
 				FBBB0BFD1B1B870F00FA2477 /* LaunchScreen.xib */,
@@ -218,6 +221,7 @@
 				FBBB0BF71B1B870F00FA2477 /* ViewController.swift in Sources */,
 				FBBB0BF21B1B870F00FA2477 /* AppDelegate.swift in Sources */,
 				FBBB0BF51B1B870F00FA2477 /* calender.xcdatamodeld in Sources */,
+				FBBB0C151B1B941F00FA2477 /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
